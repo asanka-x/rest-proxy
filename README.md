@@ -1,4 +1,4 @@
-rest-proxy
+Simple PHP Rest Proxy Service
 ==========
 
-Proxy service to make cross domain HTTP requests
+Proxy service written in PHP to make cross domain HTTP requests
